@@ -1,0 +1,5 @@
+nome=input('insira seu nome em letras minusculas: ')
+sobre=input('insira seu sobrenome em letras minusculas: ')
+nome=nome.title()
+sobre=sobre.title()
+print('seu nome:', nome, sobre)
